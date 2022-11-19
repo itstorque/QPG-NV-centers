@@ -1,0 +1,1 @@
+python main.py '{"qubits": 1, "target_qubit": 1, "T": 1, "d": 1, "steps": 1, "FFT": false, "fft_window": null, "REG_PULSE": false, "MAX_SLOPE": 0.05, "GUESS_OPT_STEPS": null, "GUESS_SIZE": null, "T2": 0.0, "METHOD": "S", "diff_factor": 1, "diff_target": null, "LR": 0.001, "OPT_LIM": 1e-08, "OPT_STEPS": 1000, "plot_res": 50}' ~/public_html/units 1;
